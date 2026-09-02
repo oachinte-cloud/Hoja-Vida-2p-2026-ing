@@ -21,7 +21,7 @@ public class DatosHojaVida {
     private String educacion = "2020-2025\n[Carrera] - [Universidad]\n[Ciudad]";
     // ========== PERSONALIZA Y SEGUNDO COMMIT TUS DATOS AQUÍ ==========
     private String[] areasInteres = {"Estructura de Datos", "Algoritmos", "Ingeniería de Software"};
-    private String proyectos = "• [Nombre del proyecto] - [Breve descripción]";
+    private String proyectos = "• [construccion de sistema de biblioteca] - [Breve descripción]";
     // =================================================
 
     public String getNombre() { return nombre; }
