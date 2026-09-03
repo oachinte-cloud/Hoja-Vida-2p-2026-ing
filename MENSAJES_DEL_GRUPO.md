@@ -4,6 +4,8 @@ Documento para el ejercicio colaborativo.
 
 ---
 
-## Tu mensaje aquí
+## Maicol
+
+Maicol estuvo aqui
 
 *(Agrega tu sección cuando hagas el Ejercicio 3)*
